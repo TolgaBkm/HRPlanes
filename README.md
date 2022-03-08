@@ -9,3 +9,8 @@ Dataset images were annotated manually by creating bounding boxes for each airpl
 The dataset has been approximately split as 70% (2166 images), 20% (615 images) and 10% (311 images) for training, validation and testing, respectively.
 
 ![alt text](https://github.com/TolgaBkm/HRPlanes/blob/main/Sample%20Image.png?raw=true)
+
+# Download Weights
+
+- YOLOv4 Weights and *.cfg* File: [Download](https://drive.google.com/file/d/1r0AlQE10y21b8bm5pvoj_jtDfDp_-ees/view?usp=sharing)
+- Faster R-CNN Frozen Graphs: [Download](https://drive.google.com/file/d/1L3ho4L7lxxBItVg43zLmnrywQiYrxgWm/view?usp=sharing)
