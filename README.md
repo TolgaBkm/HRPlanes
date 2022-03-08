@@ -8,4 +8,4 @@ The imagery required for the dataset has been obtained from Google Earth. We hav
 Dataset images were annotated manually by creating bounding boxes for each airplane using formerly HyperLabel software which still provides annotation services as Plainsight (https://app.plainsight.ai/). Quality control of each label was conducted by visual inspection of independent analysts who were not included in the labelling procedure. A total of 18,477 airplanes have been labelled. A sample image and corresponding minimum boxes for airplanes can be seen the figure.
 The dataset has been approximately split as 70% (2166 images), 20% (615 images) and 10% (311 images) for training, validation and testing, respectively.
 
-
+![alt text](https://github.com/TolgaBkm/HRPlanes/blob/main/Sample%20Image.png?raw=true)
