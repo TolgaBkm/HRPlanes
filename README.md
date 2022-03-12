@@ -10,8 +10,7 @@ The dataset has been approximately split as 70% (2166 images), 20% (615 images) 
 
 |  |  |
 | --- | --- |
-| ![alt text](https://github.com/TolgaBkm/HRPlanes/blob/main/Sample%20Images/Sample%20Image.png) | 
- ![alt text](https://github.com/TolgaBkm/HRPlanes/blob/main/Sample%20Images/Sample%20Image%202.jpg) |
+| ![alt text](https://github.com/TolgaBkm/HRPlanes/blob/main/Sample%20Images/Sample%20Image.png) | ![alt text](https://github.com/TolgaBkm/HRPlanes/blob/main/Sample%20Images/Sample%20Image%202.jpg) |
 | ![alt text](https://github.com/TolgaBkm/HRPlanes/blob/main/Sample%20Images/Sample%20Image%203.jpg)|  ![alt text](https://github.com/TolgaBkm/HRPlanes/blob/main/Sample%20Images/Sample%20Image%204.jpg) |
 | ![alt text](https://github.com/TolgaBkm/HRPlanes/blob/main/Sample%20Images/Sample%20Image%205.jpg) | ![alt text](https://github.com/TolgaBkm/HRPlanes/blob/main/Sample%20Images/Sample%20Image%206.jpg) |
 
