@@ -14,3 +14,8 @@ The dataset has been approximately split as 70% (2166 images), 20% (615 images) 
 
 - YOLOv4 Weights and *.cfg* File: [Download](https://drive.google.com/file/d/1r0AlQE10y21b8bm5pvoj_jtDfDp_-ees/view?usp=sharing)
 - Faster R-CNN Frozen Graphs: [Download](https://drive.google.com/file/d/1L3ho4L7lxxBItVg43zLmnrywQiYrxgWm/view?usp=sharing)
+
+# Download Test Dataset
+
+- YOLO Format: [Download]()
+- TFRecord: [Download]()
