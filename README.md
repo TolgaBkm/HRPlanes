@@ -24,6 +24,10 @@ The dataset has been approximately split as 70% (2166 images), 20% (615 images) 
 - YOLO Format: [Download](https://drive.google.com/file/d/1UBhs64ximEDmBtbMecg-aMaGMBX4yt8m/view?usp=sharing)
 - TFRecord: [Download](https://drive.google.com/file/d/12MU8_cHpjai46hMsIdPY_X9T-Z6fEbRo/view?usp=sharing)
 
+# Citation
+
+If you make you of the test dataset or weights, please cite our [paper](https://arxiv.org/abs/2204.10959).
+
 # Copyright
 
 Use of the Google Earth images must respect the ["Google Earth" terms of use](https://about.google/brand-resource-center/products-and-services/geo-guidelines/). All images and their associated annotations can be used for academic purposes only, but any commercial use is prohibited.
