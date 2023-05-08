@@ -28,7 +28,7 @@ The dataset has been approximately split as 70% (2166 images), 20% (615 images) 
 
 If you make you of the test dataset or weights, please cite our [paper](https://dergipark.org.tr/tr/pub/ijeg/issue/77206/1107890#article_cite).
 
-Bakırman, T. & Sertel, E. (2023). A benchmark dataset for deep learning-based airplane detection: HRPlanes . International Journal of Engineering and Geosciences , 8 (3) , 212-223 . DOI: 10.26833/ijeg.1107890.
+Bakırman, T. & Sertel, E. (2023). "A benchmark dataset for deep learning-based airplane detection: HRPlanes". International Journal of Engineering and Geosciences , 8 (3) , 212-223 . DOI: 10.26833/ijeg.1107890.
 
 # Copyright
 
