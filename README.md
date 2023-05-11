@@ -1,3 +1,7 @@
+# UPDATE
+
+The HRPlanes Dataset can be downloaded now! Please see below for details!
+
 # HRPlanes
 
 This repo contains weights of YOLOv4 and Faster R-CNN networks trained with HRPlanes dataset. YOLOv4 training have been performed using Darknet (https://github.com/AlexeyAB/darknet). Faster R-CNN have been trained using TensorFlow Object Detection API v1.13 (https://github.com/tensorflow/models/tree/r1.13.0). 
@@ -18,6 +22,11 @@ The dataset has been approximately split as 70% (2166 images), 20% (615 images) 
 
 - YOLOv4 Weights and *.cfg* File: [Download](https://drive.google.com/file/d/1r0AlQE10y21b8bm5pvoj_jtDfDp_-ees/view?usp=sharing)
 - Faster R-CNN Frozen Graphs: [Download](https://drive.google.com/file/d/1L3ho4L7lxxBItVg43zLmnrywQiYrxgWm/view?usp=sharing)
+
+# Download The Dataset
+
+You can now download the entire dataset from [Google Drive](https://drive.google.com/drive/folders/1NYji6HWh4HRLQMTagsn4tTv4LOdDrc9P?usp=sharing)
+If you make you of the HRPlanes dataset, please cite our [paper](https://dergipark.org.tr/tr/pub/ijeg/issue/77206/1107890).
 
 # Download Test Dataset
 
