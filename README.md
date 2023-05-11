@@ -25,7 +25,8 @@ The dataset has been approximately split as 70% (2166 images), 20% (615 images) 
 
 # Download The Dataset
 
-You can now download the entire dataset from [Google Drive](https://drive.google.com/drive/folders/1NYji6HWh4HRLQMTagsn4tTv4LOdDrc9P?usp=sharing)
+You can now download the entire dataset from [Google Drive](https://drive.google.com/drive/folders/1NYji6HWh4HRLQMTagsn4tTv4LOdDrc9P?usp=sharing).
+
 If you make you of the HRPlanes dataset, please cite our [paper](https://dergipark.org.tr/tr/pub/ijeg/issue/77206/1107890).
 
 # Download Test Dataset
