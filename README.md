@@ -18,6 +18,10 @@ You can now download the entire dataset in YOLO format from [Zenodo](https://zen
 
 If you make use of the HRPlanes dataset, please cite our [paper](https://dergipark.org.tr/tr/pub/ijeg/issue/77206/1107890).
 
+# Download The Weights
+
+The weights for YOLOv4 and Faster R-CNN are available [here](https://huggingface.co/TolgaBkm/HRPlanes_Weights).
+
 # Citation
 
 If you make use of the test dataset or weights, please cite our [paper](https://dergipark.org.tr/tr/pub/ijeg/issue/77206/1107890#article_cite).
